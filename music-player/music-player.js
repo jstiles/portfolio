@@ -74,8 +74,8 @@ const songs = [
     artist: 'JAMRS',
   },
   {
-    name: 'RainyDay',
-    displayName: 'RainyDay',
+    name: 'SpanishTune',
+    displayName: 'SF',
     artist: 'JAMRS',
   },
   {
