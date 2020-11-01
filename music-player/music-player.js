@@ -64,6 +64,11 @@ const songs = [
     artist: 'JAMRS',
   },
   {
+    name: 'ThreeBlueGrassTunes',
+    displayName: 'Three Blue GrassTunes',
+    artist: 'JAMRS',
+  },
+  {
     name: 'R8',
     displayName: 'R8',
     artist: 'JAMRS',
