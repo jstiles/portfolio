@@ -88,6 +88,11 @@ const songs = [
     displayName: 'Dreams',
     artist: 'JAMRS',
   },
+  {
+    name: 'Spike',
+    displayName: 'Spike',
+    artist: 'JAMRS',
+  }
 ];
 
 // check if playing
